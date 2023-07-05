@@ -1,1 +1,1 @@
-0x03-git task definitions
+0x03-git task explanation
